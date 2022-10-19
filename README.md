@@ -3,7 +3,7 @@
 <img align="right" height="250" width="375" alt="Nyan Cat" src="https://cdnv.vipestudio.com/uploads/2020/06/unnamed-file.wp.gif" />
 
 <h1 align="left">About Me:</h1>
-- 🚀 &nbsp; I’m currently learning HTML5&CSS3 and C++(And some C#). <br>
+- 🚀 &nbsp; I’m currently learning C++(And some C#). <br>
 - 📫 &nbsp; How to reach me: prpenchev20@codingburgas.bg <br>
 - ⚡ Fun fact: Fish swim and the water is wet. <br>
 
