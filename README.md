@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm [Preslav Penchev](https://github.com/kvatev98/)</h1>
+<h1 align="left">Hi 👋, I'm [Preslav Penchev](https://github.com/prpenchev20/)</h1>
 <hr>
 <img align="right" height="250" width="375" alt="Nyan Cat" src="https://cdnv.vipestudio.com/uploads/2020/06/unnamed-file.wp.gif" />
 
